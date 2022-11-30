@@ -6,7 +6,7 @@
 ---
 ## About dataset:
 - Datasets are from world bank APIs in JSON and CSV formats. The following are the schema and metadata of datasets.
-![]![meta_data](https://user-images.githubusercontent.com/117927046/204805261-4431e861-bd4e-40e4-b783-e37028c6935e.jpg)
+![](https://user-images.githubusercontent.com/117927046/204805261-4431e861-bd4e-40e4-b783-e37028c6935e.jpg)
 
 ---
 ## Tech stack used:
