@@ -15,11 +15,16 @@
 - Microsoft Excel & PowerPoint(for visualising and presenting insights).
 ---
 ## Code files:
----
+- [World_Electricity_Analysis.ipynb](https://github.com/anoop1920/World_Electricity_Analysis/blob/master/Code/Anoop%20Python%20project.ipynb)
+- [World_Electricity_Analysis.sql](https://github.com/anoop1920/World_Electricity_Analysis/blob/master/Code/World_Electricity_Analysis%20(SQL).sql)
+
 ## Snapshot of the visualisation:
 - Below is a snapshot of the excel dashboard.
+![](https://github.com/anoop1920/World_Electricity_Analysis/blob/master/Visualization/Excel_Dashboard_Snapshot.jpg)
+- [Ecxcel Dashboard](https://github.com/anoop1920/World_Electricity_Analysis/blob/master/Visualization/World_Electricity_Excel_Dashboard.xlsx)
 ---
 ## Presentation of the analysis:
+- [Presentation](https://github.com/anoop1920/World_Electricity_Analysis/blob/master/Visualization/World_Electricity_Analysis.ppt.pptx)
 ---
 ## Key insights:
 - Countries with more than 75% access to rural electricity have more than doubled to 193 countries in 2020 from 92 countries in 1990.
